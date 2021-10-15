@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\Psedukod\bin\Debug\net5.0\Psedukod.exe
+C:\Users\Admin\Documents\GitHub\Psedukod\bin\Debug\net5.0\Psedukod.deps.json
+C:\Users\Admin\Documents\GitHub\Psedukod\bin\Debug\net5.0\Psedukod.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Psedukod\bin\Debug\net5.0\Psedukod.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\Psedukod\bin\Debug\net5.0\Psedukod.dll
+C:\Users\Admin\Documents\GitHub\Psedukod\bin\Debug\net5.0\ref\Psedukod.dll
+C:\Users\Admin\Documents\GitHub\Psedukod\bin\Debug\net5.0\Psedukod.pdb
+C:\Users\Admin\Documents\GitHub\Psedukod\obj\Debug\net5.0\Psedukod.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Psedukod\obj\Debug\net5.0\Psedukod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Psedukod\obj\Debug\net5.0\Psedukod.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Psedukod\obj\Debug\net5.0\Psedukod.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Psedukod\obj\Debug\net5.0\Psedukod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Psedukod\obj\Debug\net5.0\Psedukod.dll
+C:\Users\Admin\Documents\GitHub\Psedukod\obj\Debug\net5.0\ref\Psedukod.dll
+C:\Users\Admin\Documents\GitHub\Psedukod\obj\Debug\net5.0\Psedukod.pdb
+C:\Users\Admin\Documents\GitHub\Psedukod\obj\Debug\net5.0\Psedukod.genruntimeconfig.cache
